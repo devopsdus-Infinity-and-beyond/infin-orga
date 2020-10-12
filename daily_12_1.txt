@@ -1,0 +1,27 @@
+Projektorga:
+Daily 
+- morgens & nach der Ausschusssitzung
+- Ziele/Aufgaben für den Tag
+- Fragen/Themen für den Ausschuss
+
+Tools
+- Trello - Kanban Board
+- Git repro - Protokolle
+
+Ausschussteilnahme:
+- wechselnd
+
+--------------------------------------------
+
+Daily 12.10.2020
+
+Ziele:
+- Steckbrief
+- Trelloboard
+- Infrastruktur auf Git
+- Pipeline-Struktur
+- Wie organisieren wir die Dokumentation für unseren Code?
+
+Fragen für Ausschuss
+- Verteilung shared library
+- credentials
