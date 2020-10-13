@@ -1,0 +1,18 @@
+TOP
+  Was ist passiert
+  Was als nächstes
+  Probleme
+  Ausschuss/integration Themen
+
+Jenkings läuft
+Web-Hook läuft aber nur mit Manuelas github
+Groovy mvn Compile auch
+Aber keine Logs
+  Lösung naht aber aktuell noch Problem mit Pfad /-Root
+
+Neuer Task:
+Im Code SQL-Schema für Team ändern und in mySQL-erstellen.
+POM ändern und prüfen
+  Artifact ID - Done
+  ..
+Deklarative Pipeline aus Miniprojekt aufsetzen.
