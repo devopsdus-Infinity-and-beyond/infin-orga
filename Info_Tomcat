@@ -1,0 +1,6 @@
+# Maven deploy war-File auf Tomcat mit Jenkins
+
+Links:
+https://www.baeldung.com/tomcat-deploy-war
+https://stackoverflow.com/questions/5109112/how-to-deploy-a-war-file-in-tomcat-7
+https://www.middlewareinventory.com/blog/jenkins-tomcat-deploy-deploying-application-tomcat-using-jenkins/
